@@ -399,7 +399,7 @@ function getTheme({ theme, name }) {
       {
         scope: "string variable",
         settings: {
-          foreground: themes({ light: scale.blue[6], dark: scale.blue[2], dimmed: scale.blue[2], hc: scale.blue[2] }),
+          foreground: themes({ light: scale.blue[6], dark: scale.blue[4], dimmed: scale.blue[2], hc: scale.blue[2] }),
         },
       },
       {
